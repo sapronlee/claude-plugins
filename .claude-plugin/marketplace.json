@@ -1,0 +1,20 @@
+{
+  "name": "summerok",
+  "owner": {
+    "name": "SummErOK"
+  },
+  "metadata": {
+    "description": "SummErOK's Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "cc-doc-review",
+      "source": {
+        "source": "github",
+        "repo": "SummErOK/CC-Doc-Review"
+      },
+      "description": "Select text in Claude-generated Markdown/HTML, comment, and send the comments back to the session; Claude edits and resolves them.",
+      "homepage": "https://github.com/SummErOK/CC-Doc-Review"
+    }
+  ]
+}
