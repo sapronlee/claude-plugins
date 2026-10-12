@@ -1,5 +1,5 @@
 {
-  "name": "summerok",
+  "name": "sapronlee",
   "owner": {
     "name": "SummErOK"
   },
@@ -11,19 +11,19 @@
       "name": "cc-doc-review",
       "source": {
         "source": "github",
-        "repo": "SummErOK/CC-Doc-Review"
+        "repo": "sapronlee/CC-Doc-Review"
       },
       "description": "Select text in Claude-generated Markdown/HTML, comment, and send the comments back to the session; Claude edits and resolves them.",
-      "homepage": "https://github.com/SummErOK/CC-Doc-Review"
+      "homepage": "https://github.com/sapronlee/CC-Doc-Review"
     },
     {
       "name": "cc-gauge",
       "source": {
         "source": "github",
-        "repo": "SummErOK/CC-Gauge"
+        "repo": "sapronlee/CC-Gauge"
       },
       "description": "5h/7d limits, context window and cache hit rate above the prompt, for the terminal and the desktop app. Based on CC-Usage-Band by Jetson Chan.",
-      "homepage": "https://github.com/SummErOK/CC-Gauge"
+      "homepage": "https://github.com/sapronlee/CC-Gauge"
     }
   ]
 }
