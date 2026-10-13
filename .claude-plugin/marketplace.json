@@ -11,19 +11,19 @@
       "name": "cc-doc-review",
       "source": {
         "source": "github",
-        "repo": "sapronlee/CC-Doc-Review"
+        "repo": "sapronlee/cc-doc-review"
       },
       "description": "Select text in Claude-generated Markdown/HTML, comment, and send the comments back to the session; Claude edits and resolves them.",
-      "homepage": "https://github.com/sapronlee/CC-Doc-Review"
+      "homepage": "https://github.com/sapronlee/cc-doc-review"
     },
     {
       "name": "cc-gauge",
       "source": {
         "source": "github",
-        "repo": "sapronlee/CC-Gauge"
+        "repo": "sapronlee/cc-gauge"
       },
       "description": "5h/7d limits, context window and cache hit rate above the prompt, for the terminal and the desktop app. Based on CC-Usage-Band by Jetson Chan.",
-      "homepage": "https://github.com/sapronlee/CC-Gauge"
+      "homepage": "https://github.com/sapronlee/cc-gauge"
     }
   ]
 }

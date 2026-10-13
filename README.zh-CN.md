@@ -10,8 +10,8 @@
 
 | 插件 | 用途 | 安装 |
 |---|---|---|
-| [cc-doc-review](https://github.com/sapronlee/CC-Doc-Review) | 在 Claude 生成的 Markdown / HTML 里选中文字写评论，发回会话，Claude 修改后逐条标为已解决。 | `/plugin install cc-doc-review@sapronlee` |
-| [cc-gauge](https://github.com/sapronlee/CC-Gauge) | 在输入框上方一眼看清 5h、7d 额度、上下文窗口和缓存命中率。仿照 Jetson Chan 的 [CC-Usage-Band](https://github.com/JetsonChan/CC-Usage-Band) 改写。 | `/plugin install cc-gauge@sapronlee` |
+| [cc-doc-review](https://github.com/sapronlee/cc-doc-review) | 在 Claude 生成的 Markdown / HTML 里选中文字写评论，发回会话，Claude 修改后逐条标为已解决。 | `/plugin install cc-doc-review@sapronlee` |
+| [cc-gauge](https://github.com/sapronlee/cc-gauge) | 在输入框上方一眼看清 5h、7d 额度、上下文窗口和缓存命中率。仿照 Jetson Chan 的 [CC-Usage-Band](https://github.com/JetsonChan/CC-Usage-Band) 改写。 | `/plugin install cc-gauge@sapronlee` |
 
 每个插件在各自的仓库里，本仓库只放插件目录（`.claude-plugin/marketplace.json`）。有新插件上架后，运行 `/plugin marketplace update sapronlee` 即可看到。
 
